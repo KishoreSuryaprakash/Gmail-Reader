@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.gmail.AppTest" time="0.045" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="23"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Asus\OneDrive\Desktop\gmail\gmail\target\test-classes;C:\Users\Asus\OneDrive\Desktop\gmail\gmail\target\classes;C:\Users\Asus\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Asus\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Asus\.m2\repository\com\google\http-client\google-http-client-gson\1.41.5\google-http-client-gson-1.41.5.jar;C:\Users\Asus\.m2\repository\com\google\http-client\google-http-client\1.41.5\google-http-client-1.41.5.jar;C:\Users\Asus\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Asus\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Asus\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Asus\.m2\repository\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar;C:\Users\Asus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Asus\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\Asus\.m2\repository\io\opencensus\opencensus-api\0.31.0\opencensus-api-0.31.0.jar;C:\Users\Asus\.m2\repository\io\grpc\grpc-context\1.27.2\grpc-context-1.27.2.jar;C:\Users\Asus\.m2\repository\io\opencensus\opencensus-contrib-http-util\0.31.0\opencensus-contrib-http-util-0.31.0.jar;C:\Users\Asus\.m2\repository\com\google\code\gson\gson\2.9.0\gson-2.9.0.jar;C:\Users\Asus\.m2\repository\com\google\api-client\google-api-client\1.31.1\google-api-client-1.31.1.jar;C:\Users\Asus\.m2\repository\com\google\oauth-client\google-oauth-client\1.31.2\google-oauth-client-1.31.2.jar;C:\Users\Asus\.m2\repository\com\google\http-client\google-http-client-jackson2\1.38.0\google-http-client-jackson2-1.38.0.jar;C:\Users\Asus\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.11.3\jackson-core-2.11.3.jar;C:\Users\Asus\.m2\repository\com\google\guava\guava\29.0-android\guava-29.0-android.jar;C:\Users\Asus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Asus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Asus\.m2\repository\org\checkerframework\checker-compat-qual\2.5.5\checker-compat-qual-2.5.5.jar;C:\Users\Asus\.m2\repository\com\google\errorprone\error_prone_annotations\2.3.4\error_prone_annotations-2.3.4.jar;C:\Users\Asus\.m2\repository\com\google\http-client\google-http-client-apache-v2\1.38.0\google-http-client-apache-v2-1.38.0.jar;C:\Users\Asus\.m2\repository\com\google\oauth-client\google-oauth-client-jetty\1.31.1\google-oauth-client-jetty-1.31.1.jar;C:\Users\Asus\.m2\repository\com\google\oauth-client\google-oauth-client-java6\1.31.1\google-oauth-client-java6-1.31.1.jar;C:\Users\Asus\.m2\repository\com\google\apis\google-api-services-gmail\v1-rev110-1.25.0\google-api-services-gmail-v1-rev110-1.25.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="23"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-23\bin"/>
+    <property name="sun.java.command" value="C:\Users\Asus\AppData\Local\Temp\surefire4920741690103135082\surefirebooter-20250626152632379_3.jar C:\Users\Asus\AppData\Local\Temp\surefire4920741690103135082 2025-06-26T15-26-32_145-jvmRun1 surefire-20250626152632379_1tmp surefire_0-20250626152632379_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Asus\OneDrive\Desktop\gmail\gmail\target\test-classes;C:\Users\Asus\OneDrive\Desktop\gmail\gmail\target\classes;C:\Users\Asus\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Asus\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Asus\.m2\repository\com\google\http-client\google-http-client-gson\1.41.5\google-http-client-gson-1.41.5.jar;C:\Users\Asus\.m2\repository\com\google\http-client\google-http-client\1.41.5\google-http-client-1.41.5.jar;C:\Users\Asus\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Asus\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Asus\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Asus\.m2\repository\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar;C:\Users\Asus\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Asus\.m2\repository\com\google\j2objc\j2objc-annotations\1.3\j2objc-annotations-1.3.jar;C:\Users\Asus\.m2\repository\io\opencensus\opencensus-api\0.31.0\opencensus-api-0.31.0.jar;C:\Users\Asus\.m2\repository\io\grpc\grpc-context\1.27.2\grpc-context-1.27.2.jar;C:\Users\Asus\.m2\repository\io\opencensus\opencensus-contrib-http-util\0.31.0\opencensus-contrib-http-util-0.31.0.jar;C:\Users\Asus\.m2\repository\com\google\code\gson\gson\2.9.0\gson-2.9.0.jar;C:\Users\Asus\.m2\repository\com\google\api-client\google-api-client\1.31.1\google-api-client-1.31.1.jar;C:\Users\Asus\.m2\repository\com\google\oauth-client\google-oauth-client\1.31.2\google-oauth-client-1.31.2.jar;C:\Users\Asus\.m2\repository\com\google\http-client\google-http-client-jackson2\1.38.0\google-http-client-jackson2-1.38.0.jar;C:\Users\Asus\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.11.3\jackson-core-2.11.3.jar;C:\Users\Asus\.m2\repository\com\google\guava\guava\29.0-android\guava-29.0-android.jar;C:\Users\Asus\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\Asus\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Asus\.m2\repository\org\checkerframework\checker-compat-qual\2.5.5\checker-compat-qual-2.5.5.jar;C:\Users\Asus\.m2\repository\com\google\errorprone\error_prone_annotations\2.3.4\error_prone_annotations-2.3.4.jar;C:\Users\Asus\.m2\repository\com\google\http-client\google-http-client-apache-v2\1.38.0\google-http-client-apache-v2-1.38.0.jar;C:\Users\Asus\.m2\repository\com\google\oauth-client\google-oauth-client-jetty\1.31.1\google-oauth-client-jetty-1.31.1.jar;C:\Users\Asus\.m2\repository\com\google\oauth-client\google-oauth-client-java6\1.31.1\google-oauth-client-java6-1.31.1.jar;C:\Users\Asus\.m2\repository\com\google\apis\google-api-services-gmail\v1-rev110-1.25.0\google-api-services-gmail-v1-rev110-1.25.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Asus"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-01-21"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-23"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Asus\OneDrive\Desktop\gmail\gmail"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Asus\AppData\Local\Temp\surefire4920741690103135082\surefirebooter-20250626152632379_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="23.0.2+7-58"/>
+    <property name="user.name" value="Asus"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Asus\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Asus\AppData\Local\Temp\"/>
+    <property name="java.version" value="23.0.2"/>
+    <property name="user.dir" value="C:\Users\Asus\OneDrive\Desktop\gmail\gmail"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-23\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.9.10\bin;C:\Program Files\nodejs\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Asus\AppData\Local\Microsoft\WindowsApps;C:\Users\Asus\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Asus\AppData\Roaming\npm;c:\Users\Asus\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="23.0.2+7-58"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="67.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.gmail.AppTest" time="0.004"/>
+</testsuite>
